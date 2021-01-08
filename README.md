@@ -1,4 +1,4 @@
-# Detecting Exoplanets from NASA Kepler Data  
+# Detecting Exoplanets from Kepler Data  
 
 **Machine Learning Engineer Nanodegree**  
 **Capstone Proposal**  
