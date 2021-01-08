@@ -25,5 +25,4 @@ matplotlib
 ### Data
 
 Data files required to run the code are the `exoTest` and `exoTrain` labelled time-series datasets from https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data.
-
-or download the compressed csv from the repo `exoTest.csv.zip` and `exoTrain`
+or download the compressed csv from the repo `exoTest.csv.zip` and `exoTrain.csv.zip`
